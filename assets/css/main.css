@@ -2245,6 +2245,7 @@
 
 		.image.round img {
 			border-radius: 100%;
+			max-width: 350px;
 		}
 
 		.image.left {
