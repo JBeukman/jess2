@@ -2203,7 +2203,7 @@
 /* Icon */
 
 	.icon {
-		font-family: 'Courgette', cursive;
+		font-family: 'Bad Script', cursive;
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
@@ -3178,4 +3178,8 @@
 	.jess {
 			font-family: 'Bad Script', cursive;
 			color: rosybrown;
+		}
+
+		.welcome {
+			font-weight: 'Courgette';
 		}
